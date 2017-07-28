@@ -1,0 +1,22 @@
+{
+  "name": "blog4devs",
+  "description": "Blog desenvolvido para devs",
+  "main": "index.js",
+  "authors": [
+    "Rafael"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./src/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "components-font-awesome": "^4.7.0"
+  }
+}
